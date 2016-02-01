@@ -1,0 +1,12 @@
+/*.multi_lenta { clear: left }*/
+
+.slide-item { position: relative; height: 180px; font-size: 12px; text-align: center; padding: 0 5px; }
+.slide-item .foto,
+.slide-item u,
+.slide-item b { display: block; }
+.slide-item .foto img { margin: 0 auto; }
+.slide-item u { padding: 5px 0 2px; text-decoration: none }
+.slide-item > u a { line-height: 14px;}
+.slide-item > b { font-size: 11px; color:#000; }
+.slide-item .grey { font-size: 11px; line-height: 1em; color: #888 }
+.slide-item .new { position: absolute; top: 1px; left: 58px; width: 53px; height: 12px; background: url(/img/s/v3/new_flag.png) no-repeat; }

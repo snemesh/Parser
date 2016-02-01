@@ -1,0 +1,29 @@
+#select-block .btn-block,
+#select-block .form-control {
+    display: inline-block;
+    vertical-align: top;
+}
+#select-block .form-control{
+	width: 50%;
+}
+#select-block .btn-block{
+	width: 20%;
+}
+#select-block {
+	padding: 20px 0;
+	margin: 0 15px;
+}
+.new_table table {
+	max-width: 60%;
+	margin: 0 30px;
+}
+.new_table table th {
+	padding: 5px 10px;
+	font-weight: normal;
+}
+.new_table p {
+	margin: 0  0 15px 30px;
+	text-transform: uppercase;
+	color: #f00;
+	font-weight: bold;
+}

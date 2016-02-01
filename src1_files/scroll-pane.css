@@ -1,0 +1,28 @@
+#scrollbar1 { width: 235px; margin: 20px 0 10px; }
+#scrollbar1 .viewport { width: 220px; height: 356px; overflow: hidden; position: relative; }
+#scrollbar1 .overview { list-style: none; position: absolute; left: 0; top: 0; padding: 0; margin: 0; }
+#scrollbar1 .scrollbar{position: relative; float: right; width: 9px; padding:1px 0; border-radius:3px; height:137px; border: 1px solid #cbcbcb }
+#scrollbar1 .track { height: 100%; position: relative}
+#scrollbar1 .thumb { background:#c7c7c7; border-radius:2px; width: 7px; cursor: pointer; overflow: hidden; position: absolute; top: 0; left: 1px; height:80px}
+/*#scrollbar1 .thumb .end { background: url(/img/adm-cl/tmb_a.png) no-repeat 0 0; overflow: hidden; height: 5px}*/
+/*#scrollbar1 .disable { display: none; }*/
+.noSelect { user-select: none; -o-user-select: none; -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; }
+
+
+
+.scrollbar1 { width: 235px; margin: 20px 0 10px; }
+.scrollbar1 .viewport { width: 220px; height: 356px; overflow: hidden; position: relative; }
+.scrollbar1 .overview { list-style: none; position: absolute; left: 0; top: 0; padding: 0; margin: 0; }
+.scrollbar1 .scrollbar{position: relative; float: right; width: 9px; padding:1px 0; border-radius:3px; height:137px; border: 1px solid #cbcbcb }
+.scrollbar1 .track { height: 100%; position: relative}
+.scrollbar1 .thumb { background:#c7c7c7; border-radius:2px; width: 7px; cursor: pointer; overflow: hidden; position: absolute; top: 0; left: 1px; height:80px}
+
+
+.price-lines-delivery-scrollbar {margin: 0 0 10px; background: #f5f4f3; padding: 10px 10px 10px 0  }
+.price-lines-delivery-scrollbar .viewport { height: 178px; min-height: 35px; overflow: hidden; position: relative; }  /*width: 315px;*/ 
+.price-lines-delivery-scrollbar .overview { list-style: none; position: absolute; left: 0; top: 0; padding: 0; margin: 0; }
+.price-lines-delivery-scrollbar .scrollbar{position: relative; float: right; width: 9px; padding:1px 0; border-radius:3px; height:137px; border: 1px solid #cbcbcb }
+.price-lines-delivery-scrollbar .track { height: 100%; position: relative}
+.price-lines-delivery-scrollbar .thumb { background:#c7c7c7; border-radius:2px; width: 7px; cursor: pointer; overflow: hidden; position: absolute; top: 0; left: 1px; height:80px}
+.price-lines-delivery-scrollbar .overview ul li { padding: 3px 20px 3px 17px  }
+.price-lines-delivery-scrollbar .overview ul li:hover { background: #fff9d8 }

@@ -1,0 +1,258 @@
+@media screen and (max-width: 1243px) {
+/*.g-img-box { width: 300px; }
+.g-img-box .s-img, .narrow .goods-info .img { width: 250px; }
+.g-nav-box { padding: 0 0 0 300px; }
+.img-box { padding: 0 0 20px; }
+a.credits-online { margin:0 0 10px 0; }
+.tovar-clothes .g-nav-box li { width: 50%; float: left; }
+.g-nav-box li.advert-box { margin: 0 }
+.g-nav-box .added { display: block; position: relative; padding: 0 0 8px 30px; background-position: 21px 5px; margin: -5px 0 0 }
+.g-nav-box .vid { float: none }
+*/
+.th-info { padding: 40px 0 0 }
+.th-info .th { float: none; width: 100%; padding: 0 0 40px; margin: 0 }
+.th-info table { width: 100% }
+.th-info .opis { float: none; display: block; padding: 0 0 40px }
+
+/*.lines-item .g-nav-box .lnk { padding-left: 0 }*/
+
+.c-pltk li { width: 50% }
+
+.c-pltk.four li { width: 33.3%; }
+
+.goods-info .img { width: 290px; }
+
+.htc-ban .foto { right: 0; }
+
+.credit .line>li { width: 27%; }
+.credit .line>li+li { width: 25%; }
+.credit .line .sum { width: 20%; }
+.credit .line .pl { width: 27%; }
+
+.quick-choice-n .selectbox { width: 22.5%;}
+.guide-choice .selectbox { width: 37% }
+
+
+.page-sections .list-filters-check .selectbox { width: 28.5%}
+
+.color-tabs span .glav-nav { font-size: 12px; padding: 5px 30px 21px }
+.how-choose-beauty li { width: 14.5% }
+.how-choose-beauty li.last { display: none; }
+/*.page-sections .f-left { margin: 0 21px 0 22px }*/
+
+.top-rev-info-tab .rev-help-tab { display: none; }
+
+.good-rate { padding: 25px 0 0 }
+.rate-but-box>li { width: 50% }
+.rate-but-box .g-rate { width: 50% }
+.rate-but-box .r-but-box  { width: 100%; padding: 25px 0 0; text-align: left }
+.rate-but-box .r-but-box>a, .rate-but-box .r-but-box>div  { display: inline-block; vertical-align: middle; margin: 0 15px 8px 0 }
+.rate-but-box .r-but-box>div { padding: 0 }
+.rate-but-box>li>a:nth-last-of-type(1) { display: block; }
+
+
+.rate-but-box>li .subs { padding: 0 0 0 23px; }
+
+.shop-page .left { width: 66% }
+
+}
+
+@media screen and (max-width: 1300px) {
+/*.prc-nav, .prc-nav.one { min-height: 210px; padding: 10px 0 0 }
+.prc-nav .box, .prc-nav.one .box { padding: 18px 20px }
+.prc-nav .prc, .tovar.allprice h6 .orng { font-size: 28px; }
+.prc-nav .prc, .prc-nav .nav, .prc-nav.one .nav { float: none; width: auto; }
+.prc-nav .prc, .prc-nav .but-box, .prc-nav .add-in-one, .prc-nav.one .prc { margin: 0; }
+.prc-nav .but-box, .prc-nav.one .but-box { margin: 0 0 20px; }
+.prc-nav .nav, .prc-nav.one .nav { padding: 3px 0 0; }
+.prc-nav .prc span { padding: 0 0 8px }
+.prc-nav .nav .anf { clear: left; padding: 14px 0 }
+.prc-nav .nav .lnk { clear: none; padding: 8px 0 0 }
+.prc-nav .nav .grafic { float: left; margin: 0 18px 0 0; padding: 9px 0 0 34px; }
+.prc-nav.one .add-in-one { margin: 0 }
+*/
+.g-nav-box.clth li { width: 60%; }
+.g-nav-box.clth li+li { width: 40%; }
+
+.page-sections .bottom-roller .roll-box { padding: 0 4% 15px 3%}
+
+.rate-stat-box>li { width: 46%; }
+.rate-stat-box>li+li { width: 54% }
+.kliki-course { width: 65%!important }
+}
+
+@media screen and (max-width: 1180px) {
+.elast.th .fixed-left { margin: 0 320px 0 0 }
+.g-img-box .s-img { padding: 0 15px }
+.g-nav-box li { float: none; width: 100%; }
+.g-nav-box li+li { width: 100%; }
+.g-nav-box li+li+li { float: left; width: 45% }
+.g-nav-box li+li+li+li { width: 55% }
+.g-nav-box .with { padding: 2px 0 14px }
+
+.similar-goods .item { width: 20%; }
+.similar-goods .line div+div+div+div+div+div { display: none }
+
+.tovar-clothes .fixed-right { display: none }
+.tovar-clothes .fixed-left { margin:0 }
+.tovar-clothes .similar-goods .item { width: 20% }
+.guide-page .column-r { display: none; }
+.guide-page .column-c .text-center { margin: 0 }
+
+.credit .line>li { width: 26%; }
+.credit .line>li .t-box { width: 68px; white-space: normal; line-height: 1em; text-align: right }
+.credit .line>li+li { width: 25%; }
+.credit .line>li+li .t-box { width: 138px; }
+.credit .line .sum { width: 20%; }
+.credit .line .sum .t-box { width: 95px; }
+.credit .line .pl .t-box { width: 125px; }
+
+.htc-ban .logo { width: 38%; }
+
+.cr-lc { width: 35%; }
+.cr-lc ul { clear: left; padding: 11px 0 0 }
+.cr-rc { width: 64% }
+.popular-vendors .pop-gd-bd.bd li { width: 13% }
+.popular-vendors .pop-gd-bd.vd li { width: 12.7% }
+.popular-vendors .pop-gd-bd.vd li.last { display: none; }
+
+
+}
+
+@media screen and (max-width: 1280px) {
+/*.zakaz-ch .small-sch { width: 34% }
+.zakaz-ch .small-sch input[type="text"] { width: 79%!important }*/
+.event-edit .selectbox { width: 23.3%!important }
+.control_display .lists-regions .span-line { width: 17%!important }
+.tabs-step-account b { font-size: 11px!important }
+.event .fio-edit { margin: 0 0 0 20px!important }
+}
+
+@media screen and (min-width: 1285px) and (max-width:1550px)
+{
+.event-edit .selectbox { margin: 0!important }
+.event .fio-edit { margin: 0 0 0 20px!important }
+}
+
+@media screen and (max-width: 1080px) {
+.htc-ban .logo { width: 36%; }
+.htc-ban .logo img { margin:0 5% 0 0 }
+.htc-ban .txt { width: 22%; padding: 10px 0 0 }
+.htc-ban .txt img { margin: 0 0 0 7% }
+.htc-ban .foto { right: 0; }
+
+.credit .line>li { width: 26%; }
+.credit .line>li .t-box { width: 57px; white-space: normal; line-height: 1em; text-align: right }
+.credit .line>li+li { width: 25%; }
+.credit .line>li+li .t-box { width: 138px; }
+.credit .line .sum { width: 20%; }
+.credit .line .sum .t-box { width: 80px; }
+.credit .line .pl .t-box { width: 105px; }
+
+/*.bricks-four-line a.new-label {background-position: 96% 134px!important}*/
+.cr-lc { width: 33%; }
+.cr-rc { width: 66% }
+
+.rate-stat-box>li { width: 43%; }
+.rate-stat-box>li+li { width: 57% }
+
+.gen-rate>div { padding: 5px 0 0 }
+}
+
+@media screen and (max-width: 1043px) {
+/*.g-nav-box .with { padding: 0 170px 5px 0 }
+.g-nav-box .with i { line-height: 15px; }
+.g-nav-box li+li+li+li { margin: -34px 0 0 }*/
+.cr-lc { width: 32%; }
+.cr-rc { width: 67% }
+
+}
+
+@media screen and (max-width: 1024px) {
+.similar-goods .item { width: 25%; }
+.tovar-clothes .similar-goods .item { width: 16.6% }
+.tovar-clothes .similar-goods .line div+div+div+div+div { display: block; }
+.similar-goods .line div+div+div+div+div { display: none }
+
+.tovar-clothes .fixed-right { display: none }
+.tovar-clothes .fixed-left { margin:0 }
+.clothes-catalog .block-clothes li {width:33%  }
+.clothes-catalog .block-clothes .bann-recl { width: 66.3% }    /*for merge master*/
+
+.main-clothes .main-cl-slider { width: 100% }
+.main-clothes .resize-block { width: 100%}
+.main-clothes .resize-block a {float: left; width: 32.3%;}
+.main-clothes .resize-block h2 { font-size: 17px }
+.main-clothes .resize-block .inf-p { font-size: 15px }
+.main-clothes .resize-block a+a { margin-left:1.5%  }
+.main-clothes .resize-block a div { width: 118px; height: auto; }
+.blocks-line .one-block { width: 32.3%!important }
+
+/* style for quick choice fashion */
+ .quick-choice-n .selectbox { width: 22%;}
+ .guide-choice .selectbox { width: 36% }
+ .quick-choice-n .ornge-button { margin: 0 11% 0 0 }
+/* end style for quick choice fashion */
+
+/* style for soc-link profile*/
+.block-connection-soc li { width: 32% }
+/*end style for soc-link profile*/
+
+.blocks-line div.one-block.last { display: none; }
+.main-clothes .blocks-line div.one-block.last { display: none; }
+
+.page-sections .list-filters-check .selectbox { margin: 0 }
+.bricks-small a h2 { font-size: 14px;  }  /*height: 52px*/
+.bricks-small a p { font-size: 13px; overflow: hidden; }  /*height: 49px; */
+.pop-gd-bd.width-min li { width: 11% }
+/*.pop-gd-bd.bd li { width: 12% } */
+.pop-gd-bd li.last { display: none }
+.pop-gd-bd.bd li { width: 142px } 
+
+.popular-block span { font-size: 15px }
+
+.bricks-four-line a.new-label { background-position: 96% 61% }
+
+.page-sections .list-filters-check .selectbox { width: 28.5% }
+.page-sections .bottom-roller .roll-box { padding: 0 6.75% 15px}
+.page-sections .auto-list-check #fast_autoparts { width: 100% }
+
+/*.inf-p { height: 32px; overflow: hidden; }*/
+/*.bottom-roller .f-left { margin-right: 13px }
+.pop-gd-bd li.last { display: none }
+.pop-gd-bd.bd li { width: 13.9% }
+.pop-gd-bd li { width: 11% }     */
+.page-sections .list-filters-check .selectbox { margin: 0 }
+
+.main-beauty .bottom-roller .roll-box { padding: 0 5% 15px !important}
+/*.list-float-block .one-float-block { width: 26.5% }*/
+
+.check-toolbar-color { width: 99% }
+
+.new-price-line .tx-price .but-block { width: 130px }
+.new-price-line .tx-price .price { width: 120px }
+
+.qwer { display: none }
+
+.link1, .link2 { left: 262px; width: 116px }
+.link1 { bottom: 125px; height: 39px;  }
+.link2 {bottom: 112px; height: 11px;}
+
+}
+
+/*.bricks-four-line a.new-label { background-position: 96% 126px }*/
+
+
+/* Hacks for chrom */
+@media all and (-webkit-min-device-pixel-ratio:0) {
+ .where_buy_list h2 { line-height: 20px; }
+}
+
+@media screen and (min-width:1024px) and (max-width:1250px) {
+.page-sections .auto-list-check #fast_autoparts { width:96%  }
+
+}
+
+@media screen and (min-width:1024px){
+
+ }
